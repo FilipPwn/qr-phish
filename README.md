@@ -13,7 +13,7 @@ A simple Python tool that generates QR codes as HTML files. This tool creates QR
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qr-phish.git
+   git clone https://github.com/FilipPwn/qr-phish.git
    cd qr-phish
    ```
 
